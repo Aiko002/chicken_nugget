@@ -1,7 +1,8 @@
 {
   "name": "chicken-nugget",
   "displayName": "Chicken Nugget",
-  "description": "VS Code extension for searching keywords and customizing themes",
+  "description": "VS Code extension for searching keywords and customizing themes and syntax highlighting",
+  "publisher": "Azzah Mallick",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.60.0"
